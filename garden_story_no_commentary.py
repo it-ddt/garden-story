@@ -21,3 +21,4 @@ for weed in weeds:
 
 random.shuffle(garden)
 print("сад до прополки:", garden)
+print("идентификатор сада до прополки:", id(garden))
